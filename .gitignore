@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.env
+
+# Node
+node_modules/
+.next/
+.vercel/
+
+# Memory (runtime state — not committed)
+memory/*.json
+
+# Misc
+.DS_Store
+*.pdf
