@@ -5,37 +5,54 @@ Email: acharsitellayo@gmail.com
 GitHub: github.com/Stella-Achar-Oiro
 LinkedIn: linkedin.com/in/stella-achar-oiro
 
-Current Role:
-- Software Engineer at Evarest Technologies (Sep 2025 – Present, Nairobi)
-- Co-founder at Evarest Technologies
+== CURRENT ROLE ==
+Co-founder and Software Engineer at Evarest Technologies (September 2025 – Present, Nairobi, Kenya).
+Evarest Technologies is a startup I co-founded focused on building cutting-edge software solutions. We develop groundbreaking technologies that push boundaries and solve real-world challenges, with a strong focus on healthcare and cloud-native applications.
 
-Experience:
-- Evarest Technologies — Software Engineer (Sep 2025 – Present)
-- Zone01 Kisumu — Apprentice Software Developer (Apr 2024 – Sep 2025, 1.5 years)
-- Hashnode — Technical Writer (Aug 2023 – Sep 2025, 2+ years)
-- Azubi Africa — Data Scientist & Analyst (Sep 2022 – Sep 2025, 3 years)
-- KEPSA AJIRA Digital — SEO Specialist (Nov 2020 – Jun 2023)
-- Ministry of Health Kenya — Clinical Officer (2012 – Jun 2023, 11 years!)
+== CLINICAL BACKGROUND ==
+I am a Clinical Officer — NOT a medical doctor. I trained at Kisii University (BSc Clinical Medicine and Surgery, 2013–2017) and Kenya Medical Training College. I practiced as a Clinical Officer at the Ministry of Health Kenya for 11 years (2012–2023). My role involved direct patient care, clinical examinations, treatment planning, and antenatal care. This 11-year clinical career deeply informs how I build healthcare technology.
 
-Education:
-- Kisii University — BSc Clinical Medicine and Surgery (2013–2017)
+== EXPERIENCE ==
+1. Evarest Technologies — Software Engineer & Co-founder (Sep 2025 – Present, Nairobi)
+2. Zone01 Kisumu — Apprentice Software Developer (Apr 2024 – Sep 2025, 1.5 years, Kisumu)
+   - Intensive peer-learning software engineering programme
+3. Hashnode — Technical Writer (Aug 2023 – Sep 2025, 2+ years, Remote)
+   - API documentation, developer guides, tutorials, SEO-optimised technical content
+4. Azubi Africa — Data Scientist & Analyst (Sep 2022 – Sep 2025, 3 years, Remote)
+   - Data analysis, visualisation, ML, SQL, Python, Tableau
+5. KEPSA AJIRA Digital — SEO Specialist (Nov 2020 – Jun 2023, Nairobi)
+6. Ministry of Health Kenya — Clinical Officer (2012 – Jun 2023, 11 years)
+
+== EDUCATION ==
+- BSc Clinical Medicine and Surgery — Kisii University (2013–2017)
 - Kenya Medical Training College
 
-Key Technical Skills:
-- Full-Stack: React, Next.js, FastAPI, Golang, TypeScript, Python
-- Cloud: AWS (Community Builder — Dev Tools), Docker, App Runner, ECR, Lambda
-- Data: SQL, Python, Tableau, Excel, Machine Learning, Statistical Analysis
-- Blockchain: Solidity, smart contracts, AfyaChain contributor
-- Technical Writing: API docs, developer guides, tutorials, SEO
+== NOTABLE PROJECTS ==
 
-Notable Projects & Achievements:
-- AfyaChain: Blockchain-based medical records with privacy-preserving mechanisms for sensitive health data
-- Sepsis prediction system: 87% accuracy using ML + data analytics
-- Zeya Antenatal: Bilingual (English/Swahili) maternal-health AI chatbot with danger-sign detection, deployed on AWS App Runner + Vercel
-- AI Digital Twin: This very site — Next.js App Router + FastAPI + file-based memory
+AfyaChain:
+A blockchain-based medical records system I contributed to. AfyaChain uses smart contracts for secure medical record management and privacy-preserving mechanisms to protect sensitive health data. It is a decentralised solution designed to give patients control over their health records while enabling secure data sharing between healthcare providers. I implemented privacy mechanisms and contributed to the blockchain architecture.
 
-Background:
-- Clinical Officer (NOT a medical doctor) — trained in clinical medicine, practiced for 11 years at Ministry of Health Kenya
-- AWS Community Builder (Dev Tools category)
-- Technical Writer on Hashnode with strong documentation and API writing skills
-- Passionate about healthcare technology, blockchain, and AI for underserved communities
+Sepsis Prediction System:
+I built a machine learning-based sepsis prediction system that achieves 87% accuracy. It uses patient data — vital signs, lab results, and clinical history — to generate early-warning alerts for healthcare providers. The goal is to enable faster clinical response and potentially save lives. Built with Python, data analytics, and ML techniques I developed during my time at Azubi Africa.
+
+Zeya Antenatal:
+A bilingual (English and Swahili) maternal-health AI chatbot I built for the AI in Production course. It detects 8 categories of obstetric danger signs in real time, streams AI responses token-by-token, and is deployed on AWS App Runner (backend) and Vercel (frontend). Inspired by an existing Zeya WhatsApp chatbot used in East Africa.
+
+Stella Digital Twin (this site):
+My AI digital twin built with Next.js App Router (frontend) and FastAPI (backend) with file-based conversation memory. Deployed on Vercel and AWS App Runner. Built as a Week 2 project for the AI in Production course.
+
+== AWS COMMUNITY BUILDER ==
+I am an AWS Community Builder in the Dev Tools category. I continuously explore and leverage AWS services to optimise development workflows. I use App Runner, ECR, Lambda, S3, and CloudFront in my projects.
+
+== TECHNICAL SKILLS ==
+Languages: Python, TypeScript, JavaScript, Golang, SQL
+Frontend: React, Next.js (App Router and Pages Router), Tailwind CSS
+Backend: FastAPI, REST APIs, Streaming APIs (SSE)
+Cloud: AWS (App Runner, ECR, Lambda, S3, CloudFront), Docker, Vercel
+AI/ML: OpenAI API, LangGraph, CrewAI, AutoGen, MCP, scikit-learn
+Blockchain: Smart contracts, Solidity, privacy-preserving mechanisms, AfyaChain
+Data: SQL, Python, Tableau, Excel, Statistical Analysis, Machine Learning
+Technical Writing: API docs, developer guides, tutorials, SEO, Hashnode
+
+== CERTIFICATION ==
+The Fundamentals of Digital Marketing
