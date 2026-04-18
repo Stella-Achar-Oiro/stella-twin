@@ -10,10 +10,8 @@ const EXPERIENCE = [
 ];
 
 const PROJECTS = [
-  { name: "AfyaChain", desc: "Blockchain medical records system — smart contracts + privacy-preserving mechanisms for secure health data." },
-  { name: "Sepsis Prediction", desc: "ML model with 87% accuracy for early sepsis detection using patient vitals and clinical history." },
-  { name: "Zeya Antenatal", desc: "Bilingual (English/Swahili) maternal-health AI chatbot with danger-sign detection, deployed on AWS." },
-  { name: "AI Digital Twin", desc: "This site — Next.js App Router + FastAPI streaming twin with file-based conversation memory." },
+  { name: "Zeya Antenatal", desc: "Bilingual (English/Swahili) maternal-health AI chatbot with danger-sign detection, deployed on AWS App Runner + Vercel." },
+  { name: "AI Digital Twin", desc: "This site — Next.js App Router + FastAPI streaming twin with file-based conversation memory, deployed on AWS." },
 ];
 
 const SKILLS = [

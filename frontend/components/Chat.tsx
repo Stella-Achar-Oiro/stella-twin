@@ -8,12 +8,12 @@ type Message = { role: "user" | "assistant"; content: string };
 const SESSION_ID = "twin-" + Math.random().toString(36).slice(2, 10);
 
 const STARTERS = [
-  "What's your background as a Clinical Officer?",
-  "Tell me about AfyaChain.",
-  "What is Evarest Technologies?",
-  "How did you move from healthcare to tech?",
-  "Tell me about your sepsis prediction system.",
+  "What tech stack do you work with?",
+  "Tell me about Evarest Technologies.",
   "What AI projects have you built?",
+  "How do you use AWS in your work?",
+  "Tell me about Zeya Antenatal.",
+  "What's your technical writing experience?",
 ];
 
 const QUICK_FACTS = [
