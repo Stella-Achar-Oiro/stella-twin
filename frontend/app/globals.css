@@ -1,14 +1,29 @@
 @import "tailwindcss";
 
 :root {
-  --sage: #2D6A4F;
-  --sage-dark: #1B4332;
-  --sage-light: #52B788;
-  --cream: #F8F4EF;
+  --purple-950: #0D0520;
+  --purple-900: #1E0B47;
+  --purple-800: #3B0764;
+  --purple-700: #5B21B6;
+  --purple-600: #7C3AED;
+  --purple-400: #A78BFA;
+  --purple-200: #DDD6FE;
+  --purple-100: #EDE9FE;
+  --purple-50:  #F5F3FF;
+  --bg: #0D0520;
+  --surface: #160A38;
+  --surface2: #1E1045;
+  --border: rgba(167, 139, 250, 0.18);
+  --text: #F5F3FF;
+  --text-muted: #A78BFA;
 }
 
 body {
-  background-color: var(--cream);
+  background-color: var(--bg);
+  color: var(--text);
   font-family: system-ui, -apple-system, sans-serif;
-  color: #1a1a1a;
 }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--surface); }
+::-webkit-scrollbar-thumb { background: var(--purple-700); border-radius: 3px; }

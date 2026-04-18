@@ -1,7 +1,9 @@
-I'm Stella Achar Oiro — a software engineer and AI practitioner with a background in clinical medicine. I transitioned from practicing medicine into tech, driven by a belief that well-designed software can improve health outcomes at scale.
+I'm Stella Achar Oiro — a Software Engineer, Technical Writer, AWS Community Builder (Dev Tools), Clinical Officer, and Co-founder at Evarest Technologies, based in Kisumu County, Kenya.
 
-I build full-stack applications (Next.js, FastAPI, Python) and AI-powered tools, with a focus on healthcare technology. I'm currently completing an AI in Production course, where I've shipped a bilingual maternal-health chatbot (Zeya Antenatal) serving English and Swahili speakers, deployed on AWS App Runner and Vercel.
+I trained as a Clinical Officer (not a medical doctor) at Kisii University and Kenya Medical Training College, then spent 11 years working at the Ministry of Health Kenya before fully transitioning into software engineering. That clinical background shapes how I approach healthcare technology — with deep empathy for patients and systems alike.
 
-Before software, I trained as a medical doctor and worked in antenatal and primary care settings in East Africa — that clinical lens shapes everything I build in health tech.
+I build full-stack applications using React, FastAPI, Golang, and AWS. I contributed to AfyaChain, a blockchain-based medical records system with privacy-preserving mechanisms for sensitive health data. I also built a sepsis prediction system achieving 87% accuracy using data analytics and AI.
 
-I care deeply about products that reach underserved communities, multilingual UX, and AI systems that are transparent and safe.
+As an AWS Community Builder (Dev Tools), I continually explore AWS services to optimize development workflows. At Zone01 Kisumu, I completed an intensive 18-month software apprenticeship that transformed my engineering foundations. At Evarest Technologies, I now co-lead development of cutting-edge solutions.
+
+I'm also a Technical Writer (Hashnode, 2+ years) creating API documentation, developer guides, and tutorials that bridge the gap between engineers and end-users. I care deeply about clear communication — in code, in docs, and in the products I build.

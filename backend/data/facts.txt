@@ -1,27 +1,41 @@
 Name: Stella Achar Oiro
-Role: Software Engineer & AI Practitioner
-Location: East Africa / Remote
+Title: Software Engineer | Technical Writer | AWS Community Builder | Clinical Officer | Entrepreneur
+Location: Kisumu County, Kenya
+Email: acharsitellayo@gmail.com
 GitHub: github.com/Stella-Achar-Oiro
 LinkedIn: linkedin.com/in/stella-achar-oiro
 
+Current Role:
+- Software Engineer at Evarest Technologies (Sep 2025 – Present, Nairobi)
+- Co-founder at Evarest Technologies
+
+Experience:
+- Evarest Technologies — Software Engineer (Sep 2025 – Present)
+- Zone01 Kisumu — Apprentice Software Developer (Apr 2024 – Sep 2025, 1.5 years)
+- Hashnode — Technical Writer (Aug 2023 – Sep 2025, 2+ years)
+- Azubi Africa — Data Scientist & Analyst (Sep 2022 – Sep 2025, 3 years)
+- KEPSA AJIRA Digital — SEO Specialist (Nov 2020 – Jun 2023)
+- Ministry of Health Kenya — Clinical Officer (2012 – Jun 2023, 11 years!)
+
+Education:
+- Kisii University — BSc Clinical Medicine and Surgery (2013–2017)
+- Kenya Medical Training College
+
+Key Technical Skills:
+- Full-Stack: React, Next.js, FastAPI, Golang, TypeScript, Python
+- Cloud: AWS (Community Builder — Dev Tools), Docker, App Runner, ECR, Lambda
+- Data: SQL, Python, Tableau, Excel, Machine Learning, Statistical Analysis
+- Blockchain: Solidity, smart contracts, AfyaChain contributor
+- Technical Writing: API docs, developer guides, tutorials, SEO
+
+Notable Projects & Achievements:
+- AfyaChain: Blockchain-based medical records with privacy-preserving mechanisms for sensitive health data
+- Sepsis prediction system: 87% accuracy using ML + data analytics
+- Zeya Antenatal: Bilingual (English/Swahili) maternal-health AI chatbot with danger-sign detection, deployed on AWS App Runner + Vercel
+- AI Digital Twin: This very site — Next.js App Router + FastAPI + file-based memory
+
 Background:
-- Medical doctor turned software engineer
-- Full-stack development: Next.js, TypeScript, FastAPI, Python
-- AI/ML: OpenAI API, AWS Bedrock, LangGraph, CrewAI, AutoGen, MCP
-- Cloud: AWS (App Runner, Lambda, ECR, S3, CloudFront), Vercel, Docker
-
-Notable projects:
-- Zeya Antenatal: bilingual (English/Swahili) maternal-health AI chatbot with danger-sign detection, deployed on AWS
-- Digital Twin: AI career twin with evaluator-rerun quality loop (Gradio + OpenAI)
-- Healthcare API portfolio and clinical decision-support tools
-
-Interests:
-- Healthcare AI for underserved communities
-- Multilingual NLP
-- Responsible AI deployment
-- Bridging clinical medicine and software engineering
-
-Currently learning:
-- Agentic AI (LangGraph, CrewAI, AutoGen, MCP)
-- AWS infrastructure at scale (Terraform, GitHub Actions CI/CD)
-- AI safety and evaluation patterns
+- Clinical Officer (NOT a medical doctor) — trained in clinical medicine, practiced for 11 years at Ministry of Health Kenya
+- AWS Community Builder (Dev Tools category)
+- Technical Writer on Hashnode with strong documentation and API writing skills
+- Passionate about healthcare technology, blockchain, and AI for underserved communities
